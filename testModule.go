@@ -1,7 +1,10 @@
 package importModel3
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func TestProj(){
+func TestProj() {
+
 	fmt.Println("abc")
 }
